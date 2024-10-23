@@ -26,8 +26,8 @@ O diabetes é uma doença crônica grave na qual os indivíduos perdem a capacid
 |
 ├── referencias        <- Dicionários de dados.
 |
-├── relatorios         <- Análises geradas em HTML, PDF, LaTeX, etc.
-│   └── imagens        <- Gráficos e figuras gerados para serem usados em relatórios
+├── Imagens         <- Imagem utilizada no projeto.
+
 ```
 
 ## Configuração do ambiente
